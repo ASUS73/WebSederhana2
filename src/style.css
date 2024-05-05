@@ -1,0 +1,8 @@
+.link{
+    color: rgba(0, 0, 0, 0.7);
+    transition: 0.8s;
+}
+
+.link:hover{
+    color: rgba(0, 0, 0, 1)
+}
